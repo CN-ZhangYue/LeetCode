@@ -5,7 +5,12 @@ import java.util.Map;
 import java.util.Vector;
 
 public class TwoSum {
-	
+	/**
+	 * 
+	 * @param nums
+	 * @param target
+	 * @return index of two numbers
+	 */
 	 public Vector<Integer> twoSum(Vector<Integer> nums, int target) {
 	        
 		 Vector<Integer> resultVector = new Vector<Integer>();
